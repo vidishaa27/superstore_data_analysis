@@ -63,3 +63,14 @@ superstore-sales-analysis/
 ├── dashboard/
 ├── README.md
 └── requirements.txt
+
+🔹 Power BI Dashboard
+
+### Sales Overview
+![Sales Overview](dashboard/sales_overview.png)
+
+### Profitability Analysis
+![Profitability](dashboard/profitability.png)
+
+### Customer Insights
+![Customer Insights](dashboard/customer_insights.png)
